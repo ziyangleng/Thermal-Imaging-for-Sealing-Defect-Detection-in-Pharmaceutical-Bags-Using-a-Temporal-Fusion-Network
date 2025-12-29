@@ -1,0 +1,1 @@
+# Thermal-Imaging-for-Sealing-Defect-Detection-in-Pharmaceutical-Bags-Using-a-Temporal-Fusion-Network
